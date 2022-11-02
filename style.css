@@ -450,9 +450,9 @@ p {
 /* contact Section */
 #contact .contact {
 	flex-direction: column;
-	max-width: 1200px;
+	max-width: 1000px;
 	margin: 0 auto;
-	width: 90%;
+	width: 50%;
 }
 #contact .contact-items {
 	/* max-width: 400px; */
